@@ -1,3 +1,15 @@
+# FAKE SHOP REACT-REDUX-AXİOS
+
+
+!{banner resmi](https://github.com/MustafaSakarr/React-Redux-Kullanarak-Fake-Shop-Yapimi/blob/main/FAKESHOP1.png)
+!{banner resmi](https://github.com/MustafaSakarr/React-Redux-Kullanarak-Fake-Shop-Yapimi/blob/main/FAKESHOP2.png)
+!{banner resmi](https://github.com/MustafaSakarr/React-Redux-Kullanarak-Fake-Shop-Yapimi/blob/main/FAKESHOP3.png)
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
